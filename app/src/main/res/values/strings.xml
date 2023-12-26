@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EvaluacionI_CJL</string>
+    <string name="title_activity_calc_honorarios">CalcHonorarios</string>
+    <string name="inserte_el_sueldo_a_calcular">Inserte el sueldo a calcular:</string>
+    <string name="ac_se_calculara_el_sueldo_bajo_contrato">Acá se calculara el sueldo bajo contrato</string>
+    <string name="calcular">Calcular</string>
+    <string name="inicio">Inicio</string>
+</resources>
